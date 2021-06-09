@@ -1,0 +1,1 @@
+Sistema para venda de produtos. Após a validação do usuário é possível cadastrar itens e usuários no sistema para realização de compras.

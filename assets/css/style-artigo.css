@@ -1,0 +1,64 @@
+.article-clean .intro {
+    padding-top: 10vh !important;
+}
+
+.article-clean .intro img {
+    margin-left: 8%;
+}
+
+.article-clean .intro h1 {
+    color: #C79883;
+}
+
+
+/**/
+
+@media (min-width:320px) {
+    .article-clean .intro img {
+        margin-left: 0%;
+    }
+}
+
+@media (min-width:480px) {}
+
+@media (min-width:600px) {
+    .article-clean .intro img {
+        margin-left: 0%;
+    }
+
+    .article-clean .text p {
+        margin-left: 15px;
+    }
+}
+
+@media (min-width:760px) {
+    .article-clean .intro img {
+        margin-left: 0%;
+    }
+
+    .article-clean .text p {
+        margin-left: 0px;
+    }
+}
+
+@media (min-width:801px) {
+    .article-clean .intro img {
+        margin-left: 2%;
+    }
+
+    .article-clean .text p {
+        margin-left: 0px;
+    }
+}
+
+@media (min-width:1020px) {
+    .article-clean .intro img {
+        margin-left: 8%;
+    }
+}
+
+@media (min-width:1281px) {
+    .article-clean .intro img {
+        margin-left: 7%;
+    }
+}

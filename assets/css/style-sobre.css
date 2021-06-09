@@ -1,0 +1,21 @@
+.team-clean h2 {
+    color: #C79883;
+    font-family: 'lora', serif;
+    font-weight: 500;
+    padding-top: 70px;
+}
+
+.team-clean .intro p,
+.team-clean .item .name,
+.team-clean .item .title,
+.team-clean .item .description {
+    font-family: 'lora', serif;
+}
+
+.article-clean .intro img {
+    margin-left: 3% !important;
+}
+
+.article-clean .text p {
+    margin-left: 6%;
+}

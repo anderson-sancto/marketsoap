@@ -1,0 +1,226 @@
+#login {
+    margin: 40vh !important;
+}
+
+.bg {
+    background-image: url(../../assets/img/loginBG.svg) !important;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: auto;
+    right: 0;
+    top: 0;
+    background-size: cover;
+}
+
+.text-email,
+.text-pass,
+.text-check {
+    color: #C79883 !important;
+}
+
+.descricao-email {
+    color: #C5AA96 !important;
+}
+
+.form-group {
+    padding-right: 20vh !important;
+}
+
+.login-banner {
+    padding: 25px;
+    background-color: rgba(248, 249, 246, 0.7) !important;
+    border-radius: 8px;
+}
+
+.acesso-adm {
+    color: #C79883;
+    font-weight: bold;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dae0e5;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(216 217 219 / 50%);
+}
+
+@media (min-width: 320px) {
+    #login {
+        margin-top: 20vh !important;
+        margin-bottom: 30vh !important;
+        margin-left: 15% !important;
+        margin-right: 15% !important;
+    }
+
+    .form-group {
+        padding-right: 0vh !important;
+        padding-left: 0vh !important;
+    }
+
+    .login-box {
+        padding-top: 5vh !important;
+        padding-bottom: 5vh !important;
+    }
+
+    .form-check-label {
+        margin-left: 10%;
+    }
+
+    .form-check-input {
+        margin-left: -0.1rem;
+    }
+}
+
+@media (min-width: 480px) {
+    #login {
+        margin-top: 20vh !important;
+        margin-bottom: 30vh !important;
+    }
+
+    .form-group {
+        padding-right: 0vh !important;
+        padding-left: 0vh !important;
+    }
+
+    .login-box {
+        padding-top: 10vh !important;
+        padding-bottom: 10vh !important;
+    }
+
+    .form-check-label {
+        margin-left: 8%;
+    }
+
+    .form-check-input {
+        margin-left: -0.1rem;
+    }
+}
+
+@media (min-width: 600px) {
+    #login {
+        margin-top: 20vh !important;
+        margin-bottom: 30vh !important;
+        margin-left: 30% !important;
+        margin-right: 30% !important;
+    }
+
+    .form-group {
+        padding-right: 0vh !important;
+        padding-left: 0vh !important;
+    }
+
+    .login-box {
+        padding-top: 2vh !important;
+        padding-bottom: 2vh !important;
+    }
+
+    .form-check-label {
+        margin-left: 10%;
+    }
+
+    .form-check-input {
+        margin-left: -0.1rem;
+    }
+}
+
+@media (min-width: 680px) {
+    #login {
+        margin-top: 20vh !important;
+        margin-bottom: 30vh !important;
+    }
+
+    .form-group {
+        padding-right: 0vh !important;
+        padding-left: 0vh !important;
+    }
+
+    .login-box {
+        padding-top: 2vh !important;
+        padding-bottom: 2vh !important;
+    }
+
+    .form-check-input {
+        margin-left: -0.1rem;
+    }
+
+    .form-control {
+        width: 100%;
+    }
+}
+
+@media (min-width: 801px) {
+    #login {
+        margin-top: 20vh !important;
+        margin-bottom: 30vh !important;
+        margin-left: 33% !important;
+        margin-right: 33% !important;
+    }
+
+    .form-group {
+        padding-right: 0vh !important;
+        padding-left: 0vh !important;
+    }
+
+    .login-box {
+        padding-left: 5vh;
+        padding-top: 5vh !important;
+        padding-bottom: 5vh !important;
+    }
+
+    .form-check-label {
+        margin-left: 12%;
+    }
+
+    .form-check-input {
+        margin-left: -0.0rem;
+    }
+
+    .form-control {
+        width: 80%;
+    }
+}
+
+@media (min-width: 1020px) {
+    #login {
+        margin-top: 20vh !important;
+        margin-bottom: 30vh !important;
+        margin-left: 33% !important;
+        margin-right: 33% !important;
+    }
+
+    .form-group {
+        padding-right: 0vh !important;
+        padding-left: 0vh !important;
+    }
+
+    .login-box {
+        padding-left: 5vh;
+        padding-top: 5vh !important;
+        padding-bottom: 5vh !important;
+    }
+
+    .form-check-label {
+        margin-left: 10%;
+    }
+
+    .form-check-input {
+        margin-left: -0.1rem;
+    }
+
+    .form-control {
+        width: 80%;
+    }
+}
+
+@media (min-width: 1020px) {
+    .login-box {
+        padding-left: 10vh;
+    }
+}
+
+@media (min-width: 1020px) {
+    .form-check-label {
+        margin-left: 8%;
+    }
+}
